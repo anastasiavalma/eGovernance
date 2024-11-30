@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "question": "How much does it cost to issue the disability certificate?",
+        "answer": "It is provided free of charge."
+      },
+      {
+        "id": 1,
+        "question": "What is the estimated issuance time?",
+        "answer": "The estimated issuance time is 4 months."
+      },
+      {
+        "id": 2,
+        "question": "What are the service points?",
+        "answer": "The service points are: EFKA, Community Centers, KEP."
+      },
+      {
+        "id": 3,
+        "question": "Is the service provided digitally?",
+        "answer": "Yes, it is provided digitally."
+      }
+]

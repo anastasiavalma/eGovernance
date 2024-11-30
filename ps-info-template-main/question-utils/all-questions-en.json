@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "question": "Do you have Taxisnet credentials?",
+        "options": ["Yes", "No"]
+      },
+      {
+        "id": 1,
+        "question": "Has your condition been diagnosed by your attending physician?",
+        "options": ["Yes", "No", "I do not have an attending physician"]
+      },
+      {
+        "id": 2,
+        "question": "What is the reason for your application?",
+        "options": [
+          "Initial evaluation for certification",
+          "Evaluation for extension of certification",
+          "Evaluation for worsening of an existing condition or addition of a new condition",
+          "Evaluation for revision of current certification"
+        ]
+      },
+      {
+        "id": 3,
+        "question": "State your role below:",
+        "options": [
+          "I am applying for the issuance of my own certificate",
+          "I am an authorized representative of the person to whom the certificate will belong",
+          "I am the guardian of the person to whom the certificate will belong"
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Is there a court decision regarding judicial support or guardianship?",
+        "options": ["Yes", "No"]
+      }
+    
+]
