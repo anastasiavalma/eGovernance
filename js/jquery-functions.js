@@ -378,7 +378,7 @@ $("document").ready(function () {
         currentLanguage === "greek" ? skipToEnd("Δεν μπορείτε να αποστείλετε την αίτηση εάν δεν κατέχετε κωδικούς taxis net!") : skipToEnd("You cannot submit the application if you do not have TaxisNet credentials!");
       }else if (currentQuestion === 1 && ((selectedRadioButtonIndex === 2)||(selectedRadioButtonIndex === 3))){
         currentQuestion = -1;
-        currentLanguage === "greek" ? skipToEnd("ΔΧρειάζεστε θεράποντα ιατρό προκειμένου να κάνετε την αίτηση.") : skipToEnd("You need an attending doctor in order to submit the application.");
+        currentLanguage === "greek" ? skipToEnd("Χρειάζεστε θεράποντα ιατρό προκειμένου να κάνετε την αίτηση.") : skipToEnd("You need an attending doctor in order to submit the application.");
       }
       else {
         //save selectedRadioButtonIndex to the storage
